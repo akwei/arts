@@ -1,7 +1,7 @@
 package com.github.akwei.leetcode;
 
 /**
- * leetcode #7
+ * leetode #7
  */
 public class ReverseInteger {
 
@@ -68,6 +68,6 @@ public class ReverseInteger {
 
     public static void main(String[] args) {
         ReverseInteger ri = new ReverseInteger();
-        System.out.println(ri.reverse(-123));
+        System.out.println(ri.reverse(-1));
     }
 }
